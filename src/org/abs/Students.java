@@ -7,6 +7,8 @@ public abstract class Students {
 		int id = 55456;
 
 		System.out.println("Students name is:" +id);
+		System.out.println("student name"+"mani");
+		
 	}
 
 }
